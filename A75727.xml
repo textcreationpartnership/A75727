@@ -1,0 +1,1024 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great venture shewing that man's life in this world is a venture, wherein he runs the hazard of an everlasting estate of happiness or misery in another world, according as he behaves himself here : also advice to youth, with several other things profitable for all who will seriously read and mind them / by E.A., a well-wisher to the souls of men.</title>
+            <author>E. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75727</idno>
+            <idno type="STC">Wing A3C</idno>
+            <idno type="STC">ESTC R222189</idno>
+            <idno type="EEBO-CITATION">36282185</idno>
+            <idno type="OCLC">ocm 36282185</idno>
+            <idno type="VID">150000</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150000)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2223:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great venture shewing that man's life in this world is a venture, wherein he runs the hazard of an everlasting estate of happiness or misery in another world, according as he behaves himself here : also advice to youth, with several other things profitable for all who will seriously read and mind them / by E.A., a well-wisher to the souls of men.</title>
+                  <author>E. A.</author>
+               </titleStmt>
+               <extent>[8], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Hen. Million, at the Common Huntsman in Chancery-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Second part has caption title: Advice to youth.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life.</term>
+               <term>Christian life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150000:1"/>
+            <pb facs="tcp:150000:1" rendition="simple:additions"/>
+            <p>The Great VENTURE: SHEWING, That Man's Life in this world is a <hi>Ven<g ref="char:EOLhyphen"/>ture;</hi> wherein he runs the hazard of an Everlaſting Eſtate of Happineſs or Miſery in another world, accor<g ref="char:EOLhyphen"/>ding as he behaves himſelf here.</p>
+            <p>Alſo Advice to Youth; with ſeveral other things profi<g ref="char:EOLhyphen"/>table for all who will ſeriouſly read and mind them.</p>
+            <q xml:lang="lat">Diſcite juſtitiam moniti, &amp; non temnere Divos.</q>
+            <q>
+               <l>Se'ng here y'are warn'd, learn rightouſneſs thereby,</l>
+               <l>And ſlight not Gods thrice Sacred Majeſty.</l>
+            </q>
+            <p>By <hi>E. A.</hi> a Well-wiſher to the Souls of Men.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Hen. Million,</hi> at the Common Huntſ<g ref="char:EOLhyphen"/>man in <hi>Chancery-lane, Anno Dom.</hi> 1668.</p>
+            <pb facs="tcp:150000:2" rendition="simple:additions"/>
+            <pb facs="tcp:150000:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="epigraph">
+            <pb facs="tcp:150000:3"/>
+            <lg>
+               <l>EVen as a Tennis-ball, Man in this world</l>
+               <l>By various changes up and down is hurl'd:</l>
+               <l>Objects of ſenſe, his own luſts, and the Devil</l>
+               <l>Do dayly toſs and bandy him to evil:</l>
+               <l>Where will he fall at laſt? ah! he muſt dy,</l>
+               <l>And drop i'th' Hazard of Eternity.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:150000:3"/>
+            <head>The Great VENTURE: SHEWING, That Man's Life in this world is a <hi>Ven<g ref="char:EOLhyphen"/>ture;</hi> wherein he runs the hazard of an Everlaſting Eſtate of Happineſs or Miſery in another World, accor<g ref="char:EOLhyphen"/>ding as he behaves himſelf here.</head>
+            <lg>
+               <l>O Man! thy God thee made</l>
+               <l>for an eternal ſtate,</l>
+               <l>Where both the good and bad</l>
+               <l>have their appointed fate,</l>
+               <l>
+                  <hi>And thou muſt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What is ordain'd by Him,</l>
+               <l>cann't be made void by thee:</l>
+               <l>Thou muſt ſubmit to Him,</l>
+               <l>and ſtand to his Decree,</l>
+               <l>
+                  <hi>And thou muſt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He hath determined,</l>
+               <l>and in his Word reveal'd:</l>
+               <l>Sin ſhall be puniſhed,</l>
+               <l>this Word cann't be repeal'd:</l>
+               <l>
+                  <hi>But thou muſt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet He will pardon ſin,</l>
+               <l>be'ng puniſh'd in his Son:</l>
+               <l>For thoſe who here begin</l>
+               <l>their lives to mend and turn,</l>
+               <l>
+                  <hi>And thus will venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150000:4"/>
+               <l>He tells thee, he doth hate</l>
+               <l>ſin, and will vengeance take</l>
+               <l>Upon the hairy pate</l>
+               <l>of thoſe who him forſake,</l>
+               <l>
+                  <hi>And thus will venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But if a ſinner will</l>
+               <l>believe his word, and grace</l>
+               <l>In Chriſt accept, now while</l>
+               <l>'tis offer'd for a ſpace;</l>
+               <l>
+                  <hi>And thus will venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What's paſt he will forgive,</l>
+               <l>and for the time to come,</l>
+               <l>As they to him will live,</l>
+               <l>ſo he will favour them</l>
+               <l>
+                  <hi>Who thus do venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Tis left now in thy hand,</l>
+               <l>and choiſe what thou wilt do:</l>
+               <l>To obey his command,</l>
+               <l>or after thy luſt go:</l>
+               <l>
+                  <hi>Each way to venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For ſhortly thou muſt dy,</l>
+               <l>and then ſhalt ſurely know,</l>
+               <l>How far his word is true,</l>
+               <l>and whither thou muſt go,</l>
+               <l>
+                  <hi>As thou doſt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh that I might adviſe</l>
+               <l>thee in this weighty caſe!</l>
+               <l>Oh that thou wouldſt be wiſe,</l>
+               <l>and let my words take place!</l>
+               <l>
+                  <hi>In this great venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My Counſel is to fear</l>
+               <l>Gods Majeſty, and crave</l>
+               <l>Mercy at his hands here,</l>
+               <l>that he thy ſoul may ſave,</l>
+               <l>
+                  <hi>At the <note n="†" place="bottom">Which will be at the hour of death.</note> laſt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Renounce thy will and luſt.</l>
+               <l>Thy ſelf up to him give:</l>
+               <l>And in his mercy truſt,</l>
+               <l>and to his glory live,</l>
+               <l>
+                  <hi>And thi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ay venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Though doubtful thoughts ariſe</l>
+               <l>and toſs thy troubled mind:</l>
+               <l>Although thy heart no eaſe,</l>
+               <l>peace, reſt, or hope can find,</l>
+               <l>
+                  <hi>Yet this way venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Though many ghaſtly fears</l>
+               <l>thy conſcience terrifie:</l>
+               <l>Though dreadful God appears,</l>
+               <l>and near deſpair thou ly,</l>
+               <l>
+                  <hi>Yet ſtill thus venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150000:4"/>
+               <l>Though blaſphemy upſtarts,</l>
+               <l>and Atheiſm in thy breaſt:</l>
+               <l>Though Satan ſhoot his darts,</l>
+               <l>and thou be ſore oppreſt;</l>
+               <l>
+                  <hi>Yet ſtill thus venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Though ſtrong temptations,</l>
+               <l>provoke thee hard to ſin:</l>
+               <l>And thy corruptions</l>
+               <l>beſtir themſelves within:</l>
+               <l>
+                  <hi>Yet ſtill thus venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Entertain none of theſe,</l>
+               <l>againſt them all ſtill war:</l>
+               <l>Let no ſuch thoughts thee pleaſe</l>
+               <l>as do with Gods Law jar,</l>
+               <l>
+                  <hi>Thus do thou venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Canſt thou do any good,</l>
+               <l>now while thy ſoul is here,</l>
+               <l>Cumber'd with fleſh and blood?</l>
+               <l>to do it don't forbear:</l>
+               <l>
+                  <hi>So doing venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For unto ev'ry man</l>
+               <l>according to his deeds,</l>
+               <l>Recompence ſhall be giv'n,</l>
+               <l>eternally he ſpeeds,</l>
+               <l>
+                  <hi>As he ſhall venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Well then, while 'tis to day,</l>
+               <l>what e're thy life hath been,</l>
+               <l>Believe, repent, and pray,</l>
+               <l>and add not ſin to ſin:</l>
+               <l>
+                  <hi>For thou muſt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If thou with croſſes meet,</l>
+               <l>and God afflict thee here:</l>
+               <l>With patience ſubmit,</l>
+               <l>and his great name ſtill fear.</l>
+               <l>
+                  <hi>For thou muſt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Rage not, do not rebel,</l>
+               <l>blaſpheme not, nor deſpiſe</l>
+               <l>His rod; his holy will</l>
+               <l>croſs not in any wiſe:</l>
+               <l>
+                  <hi>For thou muſt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To his ſweet reſt thy Lord</l>
+               <l>will ſhortly call thee hence:</l>
+               <l>And with a rich reward</l>
+               <l>will crown thy patience,</l>
+               <l>
+                  <hi>If thou thus venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ah! an eternal ſtate,</l>
+               <l>(as thou ere long ſhalt find)</l>
+               <l>A buſineſs is of weight,</l>
+               <l>to mind it frame thy mind.</l>
+               <l>
+                  <hi>And wiſely venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150000:5"/>
+               <l>Not as ſome deſperate fools,</l>
+               <l>who fondly do preſume,</l>
+               <l>Though they walk by no rules,</l>
+               <l>it ſhall go well with them,</l>
+               <l>
+                  <hi>Howere they venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But he who hopes to find</l>
+               <l>Heav'n in the way to Hell,</l>
+               <l>Is mad; and in the end</l>
+               <l>doth caſt away his ſoul<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <hi>He doth not venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>That man who in Gods way,</l>
+               <l>walks to eternal bliſs,</l>
+               <l>'Tis he alone may ſay,</l>
+               <l>There's hope I ſhall not miſs,</l>
+               <l>
+                  <hi>Therefore I'll venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Who makes Gods will his Law,</l>
+               <l>and truly as he can,</l>
+               <l>Frames himſelf to obey;</l>
+               <l>he onely is the man</l>
+               <l>
+                  <hi>Who rightly ventures.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The wicked venture not,</l>
+               <l>but deſperately throw,</l>
+               <l>Away their ſouls for nought,</l>
+               <l>into eternal wo,</l>
+               <l>
+                  <hi>At all adventure.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For they who God renounce,</l>
+               <l>and now caſt off the bond</l>
+               <l>Of their allegiance</l>
+               <l>to him, are loſt beyond</l>
+               <l>
+                  <hi>All peradventure.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Wherefore (O man) be wiſe,</l>
+               <l>conſider, and forbear:</l>
+               <l>Do not thy God deſpiſe</l>
+               <l>preſumptiouſly but fear</l>
+               <l>
+                  <hi>How thou doſt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Bethink thy ſelf a while,</l>
+               <l>Is thy immortal Soul</l>
+               <l>A thing ſo cheap and vile,</l>
+               <l>thou needſt not care at all</l>
+               <l>
+                  <hi>How thou doſt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O! know that in thy breaſt</l>
+               <l>thou haſt a pearl of price:</l>
+               <l>And nothing here poſſeſt</l>
+               <l>can to its value riſe:</l>
+               <l>
+                  <hi>Carefully venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A Jewel of ſuch worth</l>
+               <l>is thy immortal ſoul,</l>
+               <l>That to it heav'n and earth</l>
+               <l>a trifle we may call:</l>
+               <l>
+                  <hi>Don't raſhly venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150000:5"/>
+               <l>And if it once be loſt,</l>
+               <l>alas! 'tis gone for ever:</l>
+               <l>And then no pains or coſt,</l>
+               <l>can it again recover:</l>
+               <l>
+                  <hi>Oh! fear and venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Shall I a reaſon give,</l>
+               <l>why thy ſoul's of ſuch value?</l>
+               <l>'Tis becauſe it muſt live</l>
+               <l>in endleſs joy or ſorrow:</l>
+               <l>
+                  <hi>As thou doſt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then whats a moments pleaſure</l>
+               <l>to endleſs joy or pain?</l>
+               <l>What is earths paltry treaſure,</l>
+               <l>to endleſs loſs or gain?</l>
+               <l>
+                  <hi>For this don't venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What is a bubble here,</l>
+               <l>a little painted glaſs,</l>
+               <l>A gay, but fading flower,</l>
+               <l>a pile of withering graſs?</l>
+               <l>
+                  <hi>For this don't venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What's honor, praiſe and fame,</l>
+               <l>from mens unconſtant breath:</l>
+               <l>To everlaſting ſhame,</l>
+               <l>attending thee in death?</l>
+               <l>
+                  <hi>For this don't venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh venture not to loſe</l>
+               <l>thy dear immortal ſoul,</l>
+               <l>For ſuch poor things as theſe,</l>
+               <l>leaſt thou in hell bewail</l>
+               <l>
+                  <hi>Thy fooliſh venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh ſtake not heavens glory,</l>
+               <l>and an immortal crown,</l>
+               <l>For things ſo tranſitory,</l>
+               <l>and in a moment gone!</l>
+               <l>
+                  <hi>'Twere a mad venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Dar'ſt thou the hazard run</l>
+               <l>of everlaſting wo:</l>
+               <l>For a ſhort dream of gain,</l>
+               <l>fame, pleaſure, here below?</l>
+               <l>
+                  <hi>A wretched venture!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And haſt thou not the heart,</l>
+               <l>a while to play the man:</l>
+               <l>And with thy baſe luſts part,</l>
+               <l>eternal life to gain?</l>
+               <l>
+                  <hi>And nobly venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ah! thrice unhappy man,</l>
+               <l>and ſtrangely deſp'rate fool:</l>
+               <l>Who ventureſt to damn,</l>
+               <l>but not to ſave thy ſoul!</l>
+               <l>
+                  <hi>Oh curſed venture!</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:150000:6"/>
+               <l>One of the two muſt be,</l>
+               <l>for God hath ſent thee here,</l>
+               <l>To prove thee, and to try</l>
+               <l>what courſe thou'lt chuſe to ſteer,</l>
+               <l>
+                  <hi>And which way venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Therefore ſit down, at laſt</l>
+               <l>conſider, let thy heart</l>
+               <l>Adviſedly forecaſt,</l>
+               <l>and chuſe the better part,</l>
+               <l>
+                  <hi>Before thou venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Make good uſe of this ſeaſon,</l>
+               <l>look how thou chuſeſt now:</l>
+               <l>For ſo ſhall be thy portion</l>
+               <l>in endleſs bliſs or wo:</l>
+               <l>
+                  <hi>This is thy venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then take the ſafeſt courſe,</l>
+               <l>for thy Eternity:</l>
+               <l>Thou canſt not be the worſe</l>
+               <l>for living virtuouſly,</l>
+               <l>
+                  <hi>If ſo thou'lt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'Twill be no cauſe of grief,</l>
+               <l>at laſt when thou muſt dy,</l>
+               <l>In holineſs of life,</l>
+               <l>that thou didſt patiently</l>
+               <l>
+                  <hi>Truſt God and venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Though it be ſomewhat hard</l>
+               <l>as a poor Pilgrim here</l>
+               <l>His law ſtill to regard,</l>
+               <l>and mix thy joy with fear,</l>
+               <l>
+                  <hi>While thou doſt venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To bring thy will to his,</l>
+               <l>and thy dear luſt forſake:</l>
+               <l>To bear thy daily croſs,</l>
+               <l>and ſuffer for his ſake:</l>
+               <l>
+                  <hi>And thus to venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet know, the trouble's ſhort,</l>
+               <l>here is no laſting pain:</l>
+               <l>'Tis but a moments ſmart,</l>
+               <l>it cannot long remain,</l>
+               <l>
+                  <hi>Take heart and venture.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Joy and eternal Reſt</l>
+               <l>will afterward ſucceed:</l>
+               <l>When thou in heav'n art bleſt,</l>
+               <l>thou wilt confeſs indeed,</l>
+               <l>
+                  <hi>'Twas a ſafe Venture,</hi>
+               </l>
+               <l>
+                  <hi>'Twas a brave Venture.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="1" facs="tcp:150000:6"/>
+            <head>Advice to Youth.</head>
+            <lg>
+               <l>GIve him the morning of thy youthful days,</l>
+               <l>Who did create and form thee for his praiſe:</l>
+               <l>God made thee for himſelf, that he might be</l>
+               <l>Thine, and thou his; there's thy Felicity.</l>
+            </lg>
+            <lg>
+               <l>'Twill be loſt time and labour to attend,</l>
+               <l>What er'e diverts thee from this bleſſed end:</l>
+               <l>Hearken, to day he calls thee, and doth make</l>
+               <l>Tenders of Grace; mind it, the bleſſing take.</l>
+            </lg>
+            <lg>
+               <l>This is thy golden ſeaſon, in thy prime</l>
+               <l>To make him thine, and give thy ſelf to him:</l>
+               <l>Oh! miſs not this fair opportunity,</l>
+               <l>Leaſt thou lament it to Eternity.</l>
+            </lg>
+            <lg>
+               <l>'Tis but accepting what he proffers; bow</l>
+               <l>Thy will to his: Oh ſeek him, ſeek him now!</l>
+               <l>Come while he calls to day; for why, to morrow,</l>
+               <l>Who knows but thou maiſt end thy days in ſorrow.</l>
+            </lg>
+            <lg>
+               <l>This preſent moment which we now poſſeſs,</l>
+               <l>Is all we have t'enſure our Happineſs:</l>
+               <l>When death hath cut this lif's ſmall thred in twain,</l>
+               <l>'Twill be too late to call time back again.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:150000:7"/>
+               <l>Youth ſtain'd with vice, and loſt in vanity,</l>
+               <l>Unfits for God, ripens for miſery:</l>
+               <l>Hardens the Heart to ſlight its chiefeſt good,</l>
+               <l>Therefore deſpiſ'd, becauſe not underſtood.</l>
+            </lg>
+            <lg>
+               <l>Ten thouſand worlds can make no recompence</l>
+               <l>For Gods loſt favour, and times ill expence:</l>
+               <l>Before the world and luſt prevail, Oh give</l>
+               <l>Thy heart to him by whom thy heart doth live.</l>
+            </lg>
+            <lg>
+               <l>The longer ſin takes rooting in thy heart,</l>
+               <l>The hardlier 'twill come out, and with more ſmart:</l>
+               <l>Delay of ſeeking thy eternal bliſs,</l>
+               <l>Leaves ſtill leſs hope thou'lt find, more fear thou'lt miſs.</l>
+            </lg>
+            <lg>
+               <l>Now heav'n, and Chriſt (who purchaſ'd that ſweet place)</l>
+               <l>Are the fair prize of this thy lifes ſhort race:</l>
+               <l>Oh ſet out then betimes! hold on thy way;</l>
+               <l>That thou maiſt win this prize make no delay.</l>
+            </lg>
+            <lg>
+               <l>Thy days are few, thy tryal cann't be long,</l>
+               <l>Quit thy ſelf bravely, play the man, be ſtrong:</l>
+               <l>Watch, p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay, ſtrive hard 'gainſt devil, world and luſt</l>
+               <l>For daily help in God through Chriſt ſtill truſt.</l>
+            </lg>
+            <lg>
+               <l>Then let the grim-fac'd Meſſenger appear,</l>
+               <l>Pale Death to thee will bring no cauſe of fear:</l>
+               <l>But as thy friend, and fathers ſervant, come</l>
+               <l>Both to invite thee, and attend thee home.</l>
+            </lg>
+            <lg>
+               <l>Where thy thrice happy ſoul, Heav'ns Majeſty</l>
+               <l>Shall ſee, love, praiſe, admire, eternally:</l>
+               <l>Raviſh'd with pure delights, rivers of pleaſure,</l>
+               <l>From Gods ſweet preſence which ſhal flow for ever.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="3" facs="tcp:150000:7"/>
+            <head>An Humble Acknowledgment of Gods free goodneſs, and our own vileneſs and wretchedneſs.</head>
+            <lg>
+               <l>LOrd! what I am, I am alone by thee,</l>
+               <l>The moſt free author of all good to me:</l>
+               <l>What I find better than the worſt of ill,</l>
+               <l>Is from thy favour, and thy meer good will:</l>
+               <l>The worſt of puniſhments I have deſerv'd,</l>
+               <l>Whoſe heart from thy juſt Law hath ever ſwerv'd:</l>
+               <l>No villany ſo baſe, but I do find</l>
+               <l>A proneneſs to it in my wretched mind:</l>
+               <l>Shouldſt thou not puniſh my offences, yet</l>
+               <l>On miſchief is my nature ſo far ſet,</l>
+               <l>That I my ſelf-deſtroyer ſoon ſhould be,</l>
+               <l>And find a way to my own miſerie:</l>
+               <l>Shouldſt thou but leave me to my own hearts evil,</l>
+               <l>My mind a Hell, my will would prove a Devil:</l>
+               <l>So, that I do not now the utmoſt know,</l>
+               <l>Of wretchedneſs, to thy meer grace I ow:</l>
+               <l>Which ſtill forbears my ſins due puniſhment,</l>
+               <l>And doth my utter ruine yet prevent.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>The Paradox.</head>
+            <lg>
+               <l>LOrd! muſt the beſt fare worſt? the good &amp; juſt</l>
+               <l>By great afflictions humbled are toth' duſt:</l>
+               <l>Mean while the wicked proſper; they who God</l>
+               <l>Contemn, yet ſeel not his afflicting Rod:</l>
+               <l>Can all this be, and thou yet God above,</l>
+               <l>Who hat'ſt the wicked and the juſt doſt love?</l>
+               <l>Thy Providence is ſtrange; yet thou hereby</l>
+               <l>The juſt mans Faith and Patience doſt try.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:150000:8"/>
+            <head>Of the World.</head>
+            <lg>
+               <l>THe world's a large and publick ſtage, whereon</l>
+               <l>All act their ſev'ral parts, and then are gone:</l>
+               <l>Nought elſe are acted here but Tragedies;</l>
+               <l>For in the cloſe of all each Actor dies.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of the ſame.</head>
+            <lg>
+               <l>THe World's a Sea, mens paſſions are the winds,</l>
+               <l>Which belching from their fierce and boiſtrous minds</l>
+               <l>Such tempeſts cauſe; that many (being toſt</l>
+               <l>In ſtorms which they themſelves have rais'd) are loſt.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of Sin.</head>
+            <lg>
+               <l>SIn is the Creatures will oppoſing Gods,</l>
+               <l>The Subject with the Sovereign at odds:</l>
+               <l>Whereby proud man exalts his own baſe luſt,</l>
+               <l>Above Gods Law, moſt holy, good, and juſt.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of the Law.</head>
+            <lg>
+               <l>SInners toth' Law of God do offer force,</l>
+               <l>Gods Law to ſinners doth denounce a curſe:</l>
+               <l>The ſinner breaks the Law, and God doth thwart:</l>
+               <l>God and the Law will break the ſinners heart.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of Death.</head>
+            <lg>
+               <l>DEath is the King of Terrors; with his dart</l>
+               <l>Taking his aim at each mans trembling heart:</l>
+               <l>A Dragon, whoſe envenom'd fatal ſting</l>
+               <l>Strikes all; and ſpareth not the greateſt King:</l>
+               <l>Death is ſins brat, mans bane, Gods curſe, hells gate,</l>
+               <l>To all while in their unconverted ſtate:</l>
+               <l>But to the juſt, (by faith in Chriſt who live,</l>
+               <l>And ſeek their chiefeſt good in things above)</l>
+               <l>Death's a ſafe paſſage into heav'nly bliſs,</l>
+               <l>The Gate of Life, the door of Paradiſe.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="5" facs="tcp:150000:8"/>
+            <head>Of Chriſt.</head>
+            <lg>
+               <l>GOds Son became Man, and the Law obey'd,</l>
+               <l>Its curſe he bore, and for our treſpaſs dy'd:</l>
+               <l>By his death Sinners live, and have acceſs</l>
+               <l>To God, though Infinite in Holineſs</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of Faith.</head>
+            <lg>
+               <l>FAith is the Eye whereby we Chriſt perceive,</l>
+               <l>Faith is the Hand whereby we Chriſt receive:</l>
+               <l>God freely offers Chriſt, Faith takes the gift,</l>
+               <l>As ſeeing it mean't to all who it accept.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of pardon upon going to Chriſt</head>
+            <lg>
+               <l>WHen once the Sinners guilty troubled Soul</l>
+               <l>His loſt eſtate comes to ſee, and bewail:</l>
+               <l>And by conviction ſenſible is made,</l>
+               <l>That he a Saviours Righteouſneſs doth need:</l>
+               <l>And is made willing from his very Heart,</l>
+               <l>With his own Works and Righteouſnes to part:</l>
+               <l>And he beholding to free Grace alone</l>
+               <l>For his forgiveneſs, and Salvation:</l>
+               <l>And as a weaned Child is well content,</l>
+               <l>For to receive Chriſts Kingly Government:</l>
+               <l>And become ſubject to his Royal will,</l>
+               <l>Ceaſing henceforth his own Luſt to fulfil:</l>
+               <l>And ſo in his own Breaſt a Law doth finde,</l>
+               <l>In ſome ſort ruling his rebellious Minde:</l>
+               <l>That notwithſtanding Folly doth remain,</l>
+               <l>Yet in his Heart Wickedneſs doth not reign:</l>
+               <l>When Sin Committed moves him to Repent,</l>
+               <l>And Si<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>emb'red makes him to Lament:</l>
+               <l>When to be Holy is his Hearts deſire,</l>
+               <l>And in his Actions ſtrives to be ſincere;</l>
+               <l>Though failings very great ſometimes appear,</l>
+               <l>And weakneſſes too often here, and there</l>
+               <l>Do ſhew themſelves: which yet are not approv'd,</l>
+               <l>But truth ſtill in the inward parts is lov'd:</l>
+               <l>And after perfect Grace his Soul doth groan,</l>
+               <l>And for that end would fain to Heaven be gone:</l>
+               <pb n="6" facs="tcp:150000:9"/>
+               <l> And yet ſubmits to ſtay Gods leaſure here,</l>
+               <l>And ſerve him as he can till he come there:</l>
+               <l>When Sin his burthen is become, and he</l>
+               <l>Would fain like Chriſt in Grace and Glory be:</l>
+               <l>Whoſe failings keep him humble, and thereby</l>
+               <l>Self-emptied he more need of Chriſt doth ſee:</l>
+               <l>Who though he periſh, cannot yet afford</l>
+               <l>While in this World, quite to forſake the Lord:</l>
+               <l>And caſt away his ſmall degree of truſt,</l>
+               <l>And wholly turn from God unto h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Luſt:</l>
+               <l>But would be kept from Sin, and ſtand in awe,</l>
+               <l>And honour in his heart Gods holy Law:</l>
+               <l>And though his Faith and Hope be often low,</l>
+               <l>Yet he would venture ſtill on Chriſt; and throw</l>
+               <l>Himſelf a wretched Sinner at his feet,</l>
+               <l>And ſelf-condemned, mercy ſtill intreat:</l>
+               <l>The humble Soul which God hath brought to this,</l>
+               <l>Surely can never of it's Pardon miſs.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of <g ref="char:V">Ʋ</g>nion with Chriſt: And our advantage thereby.</head>
+            <lg>
+               <l>NO ſooner Sin and we do part, but Chriſt</l>
+               <l>And we are one; and thus in Union bleſt:</l>
+               <l>For all his bleſſings ours do become,</l>
+               <l>While all our Sin, and Curſe he takes on him.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of Holineſs.</head>
+            <lg>
+               <l>THe Grace of God reveal'd for our Salvation,</l>
+               <l>Merits from us a Holy Converſation:</l>
+               <l>They moſt indebted are who are beſt us'd,</l>
+               <l>Love deſerves to be ſerv'd, and not abus'd.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of Repentance.</head>
+            <lg>
+               <l>REpentance is a change of Mind and Heart,</l>
+               <l>Whereby the will from its own will doth part:</l>
+               <l>Sin is our own will pleas'd, Gods diſobey'd:</l>
+               <l>Repentance, Gods Will pleas'd, and ours deny'd:</l>
+               <l>At leaſt in the deſire this will be found,</l>
+               <l>And true endeavour; if the Heart be ſound:</l>
+               <l>Grief, Tears and Conſcience troubles after Sin,</l>
+               <l>Make no Repentance untill this come in.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="tcp:150000:9"/>
+            <head>Of Time.</head>
+            <lg>
+               <l>WHat thing Time is can hardly be defin'd,</l>
+               <l>'Tis gone while 'tis but thought of in the minde</l>
+               <l>Time is that in which all things elſe are done,</l>
+               <l>And yet of all things is it ſelf leaſt known:</l>
+               <l>If 'twere a Body ſurely then it would</l>
+               <l>Be ſeen, felt, heard: our Senſe perceive it could:</l>
+               <l>If 'twere a ſpirit 'twould immortal be;</l>
+               <l>But Time ſpends, and will ſhortly ceaſe to be:</l>
+               <l>What then is Time? which all the good and wiſe</l>
+               <l>So much eſteem of, and ſo highly prize?</l>
+               <l>'Tis neither Silver, Gold, nor precious Stone,</l>
+               <l>Above them all, yet 'tis prefer'd alone:</l>
+               <l>'Tis that of which all ſtand in ſo great need,</l>
+               <l>And yet from all it flies with greateſt ſpeed:</l>
+               <l>Swifter then Foot, or Wing, or Winde<g ref="char:punc">▪</g> or Tide,</l>
+               <l>Or haſty Streams along the Bankes which glide:</l>
+               <l>'Tis a ſhort ſpace, wherein each one doth treaſure</l>
+               <l>Up for himſelf Eternal Woe or Pleaſure:</l>
+               <l>'Tis but a moment, which ſpent ill or well,</l>
+               <l>Brings endleſs joyes in Heaven, or pains in Hell.</l>
+            </lg>
+         </div>
+         <div type="part">
+            <head>Of Eternity.</head>
+            <lg>
+               <l>WHen this ſhort ſpace of Time's expir'd then we:</l>
+               <l>(And not before) ſhall know Eternity:</l>
+               <l>God no beginning knows, nor end ſhall ſee,</l>
+               <l>He was from, and is to Eternity:</l>
+               <l>But Men and Angels did begin to be,</l>
+               <l>They are not from, but to Eternity:</l>
+               <l>So Man being born, his Life hath here a date;</l>
+               <l>Which done, he goes to his Eternal ſtate.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Wiſdome.</head>
+            <lg>
+               <l>VAin Man! Wouldſt thou be wiſe? know Wiſdom lies</l>
+               <l>In things Divine; in Sacred Myſteries:</l>
+               <l>To know the ſecrets of thy own vile Heart,</l>
+               <l>So skil'd in Sin, ſo learn'd in that Black Art:</l>
+               <l>To ſeek and finde thy everlaſting Good</l>
+               <l>In Chriſt; who purchas'd thy bliſs with his blood.</l>
+               <pb n="8" facs="tcp:150000:10"/>
+               <l>To ſteer thy courſe of Life in ev'ry action,</l>
+               <l>Unto Gods Glory, and thy own Salvation:</l>
+               <l>
+                  <hi>Hereby thy Soul thou ſhall't ſecure,</hi>
+               </l>
+               <l>
+                  <hi>And future happines make ſure.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Folly</head>
+            <lg>
+               <l>Wouldſt thou ſee Folly in it's deepeſt dye?</l>
+               <l>A Fool in grain? then ſuch an one is he</l>
+               <l>Whoſe wit's a ſervant only to his will,</l>
+               <l>Contriving how he may his Luſt fulfil:</l>
+               <l>Whoſe chiefeſt good is but himſelf to pleaſe,</l>
+               <l>And melt away his dayes in ſloath, and eaſe:</l>
+               <l>Who waſts his precious hours in Vanity,</l>
+               <l>And ſleights God, Chriſt, Heaven, Hell, Eternity:</l>
+               <l>Who lives as if he had no Soul to ſave,</l>
+               <l>And mindes not that he's haſt'ning to his Grave:</l>
+               <l>Cloſe priſoner there in darkneſs to remain,</l>
+               <l>Till God to Judgement call him forth again:</l>
+               <l>
+                  <hi>A wretch he lives, a wretch he'l dye</hi>
+               </l>
+               <l>
+                  <hi>Snatcht hence to Endleſs Miſery.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>An Exhortation to all.</head>
+            <lg>
+               <l>LO! Mortal Men of ev'ry rank and ſtate,</l>
+               <l>High, low, rich, poor, young, old, both ſmall and great:</l>
+               <l>Wiſdome and Folly, Life and Death are ſet</l>
+               <l>Before your Face; and to your choice do yet</l>
+               <l>Expoſe themſelves: O Man while thou art here</l>
+               <l>Be well advis'd how thou thy courſe doſt ſteer!</l>
+               <l>What guid thou chuſeſt now, while in the way,</l>
+               <l>Unto that place where thou muſt ever ſtay:</l>
+               <l>And ne're return to mend what was amiſs</l>
+               <l>Here, in thy Lifes ſhort race to Woe or Bliſs:</l>
+               <l>Take Wiſdom for thy guid, thy ſelf commit</l>
+               <l>To her ſafe conduct, ſhe thy minde will ſuit</l>
+               <l>To walk in Virtues path: and in the way</l>
+               <l>Of Grace to Glory will thy Soul convey:</l>
+               <l>O truſt not blear-ey'd Folly! which doth ſee</l>
+               <l>Only things preſent as they ſeem to be:</l>
+               <l>If Folly guid thee, know that thy own Will</l>
+               <l>Blinded by Luſt, will lead thee into Hell.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150000:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
